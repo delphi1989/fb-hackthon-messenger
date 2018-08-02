@@ -1,0 +1,3 @@
+[submodule "banana-king"]
+	path = banana-king
+	url = git@github.com:cozy-crows/banana-king.git
